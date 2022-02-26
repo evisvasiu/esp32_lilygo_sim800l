@@ -9,9 +9,9 @@ import gc
 gc.collect()
 
 
-mqtt_server = '138.3.246.220'
-user = 'jezerca'
-passw = 'Password@2'
+mqtt_server = '1*0'
+user = '*rca'
+passw = 'Pa**2'
 client_id = 'esp32sds'
 #topic_uv = 'uv'
 topic_t = 'dht22_temp'
